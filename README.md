@@ -20,7 +20,7 @@ and **It's a simple project of my bachelor's graduation**
 ## 🛠 Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Library-Management-System.git
+   git clone https://github.com/yourusername/Library-Website.git
    ```
    
 2. Set up the database:
